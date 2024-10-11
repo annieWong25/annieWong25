@@ -17,5 +17,8 @@ Here are some ideas to get you started:
 Resume
 - Name: Annie Wong
 - Education: Northeastern University 
-- Work Expereince: Student Activist, Summer Camp Counselor, Volunteer for after-school program, clerk for community center 
+- Work Expereince: Student Activist, 
+                   Summer Camp Counselor, 
+                   Volunteer for after-school program, 
+                   Clerk for community center 
 -->
