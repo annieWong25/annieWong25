@@ -13,4 +13,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: slack, text, email
 - 😄 Pronouns: she/her/hers
 - ⚡ Fun fact: I can eat a lot. 
+
+Resume
+- Name: Annie Wong
+- Education: Northeastern University 
+- Work Expereince: Student Activist, Summer Camp Counselor, Volunteer for after-school program, clerk for community center 
 -->
